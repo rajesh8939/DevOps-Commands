@@ -1,0 +1,8 @@
+To pull the files form github to Local machine
+
+1. git clone <URL>
+
+To push files form local to github
+
+1. git config --global user.email "rajeshg@git.com"
+2. git config --global user.name "rajesh"
