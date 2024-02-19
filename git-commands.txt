@@ -9,4 +9,4 @@ To push files form local to github
 3. git init
 4. git add .
 5. git commit -m "---"
-6. git push -u origin master
+6. git push -u origin master/main
