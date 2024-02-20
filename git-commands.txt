@@ -10,3 +10,11 @@ To push files form local to github
 4. git add .
 5. git commit -m "---"
 6. git push -u origin master/main
+
+To create branch commands
+
+1. git status
+2. git checkout -b branch-name
+3. git checkout -b feature/new-feature
+4. git branch
+5. git push -u origin branch-name
